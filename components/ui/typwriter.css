@@ -1,0 +1,26 @@
+@keyframes typewriter {
+  0% {
+    width: 0;
+  }
+  50% {
+    width: 100%;
+  } /* Typing */
+  100% {
+    width: 100%;
+  } /* Hold text for some time */
+}
+
+@keyframes cursor-blink {
+  50% {
+    border-color: white;
+  }
+}
+
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid transparent; /* Cursor effect */
+  animation: typewriter 5s steps(50) infinite alternate,
+    cursor-blink 0.8s step-end infinite;
+}

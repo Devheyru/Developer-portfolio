@@ -33,9 +33,8 @@ const Contact = () => {
         <div className="contact-left">
           <h1>Let&apos;s talk</h1>
           <p>
-            I&apos;m currently avaliable to take on new projects, so feel free
-            to send me a message anything that you want me to work on. You can
-            contact anytime.
+            I&apos;m currently avaliable to take on new projects.so, You can
+            contact me anytime.
           </p>
           <div className="contact-details">
             <div className="contact-detail">
