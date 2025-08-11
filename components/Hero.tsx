@@ -46,7 +46,7 @@ const Hero = () => {
 
           <div className="typewriter-container">
             <p className="typewriter sm:text-xl md:text-2xl lg:text-3xl">
-              Hi! I&apos;m Heyru, a Frontend Developer based in Ethiopia...
+              Hi! I&apos;m Heyru, a Fullstack Web and Mobile App Developer based in Ethiopia...
             </p>
           </div>
           <TextGenerateEffect
