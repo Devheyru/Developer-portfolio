@@ -111,7 +111,7 @@ export const projects = [
     id: 4,
     title: "Inventory management app",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    img: "inventory.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://inventory-management-system-alpha-self.vercel.app/",
   },
