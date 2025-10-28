@@ -113,7 +113,7 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "inventory.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://inventory-management-system-alpha-self.vercel.app/",
+    link: "https://inventory-management-system-orcin-sigma.vercel.app/",
   },
 ];
 
