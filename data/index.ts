@@ -115,6 +115,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://inventory-management-system-orcin-sigma.vercel.app/",
   },
+  {
+    id: 5,
+    title: "Dev-Events organizer",
+    des: "A full Stack Next js website for Creating, Booking And managing Dev-events like Conferences, Dev-Expos, Dev-Meetups...etc",
+    img: "inventory.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://dev-events-bice.vercel.app/",
+  },
 ];
 
 export const testimonials = [
