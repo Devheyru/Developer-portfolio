@@ -120,7 +120,7 @@ export const projects = [
     title: "Dev-Events organizer",
     des: "A full Stack Next js website for Creating, Booking And managing Dev-events like Conferences, Dev-Expos, Dev-Meetups...etc",
     img: "event4.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/cloudinary.svg", "/MongoDB.svg"],
     link: "https://dev-events-bice.vercel.app/",
   },
 ];
